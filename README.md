@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hlaing Min Thein</h1>
 <h3 align="center">JavaScript Specialist | Fullstack Developer</h3>
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hlaing-dev&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlaing-dev&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hlaing-dev&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ### 👨‍💻 About Me
