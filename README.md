@@ -24,6 +24,7 @@ Backend:   Node.js · Express · ASP.NET · MongoDB · SQL · Firebase
 Mobile:    React Native · WebView (iOS + Android) · BLE · Native Bridge Integration  
 Other:     Git · Docker · Vite · CI/CD · AppSync · Micro Frontends
 
+---
 
 ### 📈 GitHub Stats
 
